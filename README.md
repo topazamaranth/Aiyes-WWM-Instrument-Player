@@ -7,6 +7,9 @@ This is the first public release of Aiye's Instrument Player, a standalone Windo
 
 Just open MIDI files in the program, press Play, and quickly swap to your game window — the app will perform the song using the correct keyboard mappings.
 
+**[Click here to Download](https://github.com/topazamaranth/Aiyes-WWM-Instrument-Player/releases/download/v1.0.0/Aiye.s.Instrument.Player.exe)**
+
+
 **How to Use:**
 
 - Download and run the .exe below (no install needed) IN ADMINSTRATOR MODE.
